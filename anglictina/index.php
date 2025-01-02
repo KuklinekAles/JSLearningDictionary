@@ -179,32 +179,83 @@
         <p class="example">10. She was working on her project all night. (Celou noc pracovala na svém projektu.)</p>
          <div class="tense-name">Past Perfect (Předminulý čas)</div>
          <p>Použití: děj, který předcházel jinému ději v minulosti</p>
-         <p class="example">I had worked before he came. (Pracoval jsem předtím, než přišel.)</p>
-
+       <p class="example">1. I had finished work by 5 PM. (Do 5 hodin jsem měl práci dokončenou.)</p>
+       <p class="example">2. They had built the house by last year. (Do minulého roku měli postavený dům.)</p>
+       <p class="example">3. She had graduated by June. (Do června měla vystudováno.)</p>
+       <p class="example">4. We had moved to Prague by August. (Do srpna jsme byli přestěhováni do Prahy.)</p>
+       <p class="example">5. He had learned Spanish by the end of the course. (Na konci kurzu měl španělštinu naučenou.)</p>
+       <p class="example">6. The train had arrived by midnight. (Do půlnoci vlak přijel.)</p>
+       <p class="example">7. You had read the book by Monday. (Do pondělí jsi měl knihu přečtenou.)</p>
+       <p class="example">8. The company had opened ten new stores by 2022. (Do roku 2022 měla firma otevřeno deset nových obchodů.)</p>
+       <p class="example">9. I had lived there for 20 years by last month. (Minulý měsíc to bylo 20 let, co jsem tam bydlel.)</p>
+       <p class="example">10. They had completed the project by the deadline. (Do termínu měli projekt dokončený.)</p>
          <div class="tense-name">Past Perfect Continuous</div>
          <p>Použití: děj trvající do určitého momentu v minulosti</p>
-         <p class="example">I had been working for 3 hours when he arrived. (Pracoval jsem 3 hodiny, když přišel.)</p>
-     </div>
+        <p class="example">1. I had worked before he came. (Pracoval jsem předtím, než přišel.)</p>
+               <p class="example">2. She had studied English before she moved to London. (Studovala angličtinu předtím, než se přestěhovala do Londýna.)</p>
+               <p class="example">3. They had left when we arrived. (Odešli předtím, než jsme přišli.)</p>
+               <p class="example">4. He had never seen snow before that winter. (Nikdy předtím neviděl sníh.)</p>
+               <p class="example">5. We had finished dinner when she called. (Dokončili jsme večeři, když zavolala.)</p>
+               <p class="example">6. The train had left before I reached the station. (Vlak odjel předtím, než jsem dorazil na nádraží.)</p>
+               <p class="example">7. She had written three books before she turned thirty. (Napsala tři knihy, než jí bylo třicet.)</p>
+               <p class="example">8. I had never been to Paris before last year. (Nikdy předtím jsem nebyl v Paříži.)</p>
+               <p class="example">9. They had lived there for ten years before they moved. (Žili tam deset let, než se přestěhovali.)</p>
+               <p class="example">10. He had played tennis before he started football. (Hrál tenis předtím, než začal s fotbalem.)</p>
+          </div>
 
      <div class="tense-group">
          <h2>Budoucí časy</h2>
 
          <div class="tense-name">Future Simple (will)</div>
          <p>Použití: budoucí děje, spontánní rozhodnutí</p>
-         <p class="example">I will work tomorrow. (Zítra budu pracovat.)</p>
+          <p class="example">1. I will work tomorrow. (Zítra budu pracovat.)</p>
+                 <p class="example">2. She will help you with your homework. (Pomůže ti s domácím úkolem.)</p>
+                 <p class="example">3. They will arrive next week. (Příští týden přijedou.)</p>
+                 <p class="example">4. It will rain tomorrow. (Zítra bude pršet.)</p>
+                 <p class="example">5. We will see you at the party. (Uvidíme se na večírku.)</p>
+                 <p class="example">6. He will study medicine next year. (Příští rok bude studovat medicínu.)</p>
+                 <p class="example">7. The train will leave at 8 AM. (Vlak odjede v 8 hodin.)</p>
+                 <p class="example">8. I will call you tonight. (Dnes večer ti zavolám.)</p>
+                 <p class="example">9. They will move to London next month. (Příští měsíc se přestěhují do Londýna.)</p>
+                 <p class="example">10. She will finish the project by Friday. (Dokončí projekt do pátku.)</p>
 
          <div class="tense-name">Going to</div>
          <p>Použití: plánované děje v budoucnosti</p>
-         <p class="example">I am going to work tomorrow. (Zítra budu pracovat.)</p>
+         <p class="example">1. I am going to work tomorrow. (Zítra budu pracovat.)</p>
+                 <p class="example">2. She is going to study in London. (Bude studovat v Londýně.)</p>
+                 <p class="example">3. They are going to buy a new house. (Koupí si nový dům.)</p>
+                 <p class="example">4. It is going to rain. (Bude pršet.)</p>
+                 <p class="example">5. We are going to visit our grandmother. (Navštívíme babičku.)</p>
+                 <p class="example">6. He is going to learn Spanish. (Bude se učit španělsky.)</p>
+                 <p class="example">7. The movie is going to start at 8. (Film začne v 8 hodin.)</p>
+                 <p class="example">8. I am going to paint my room. (Vymaluji si pokoj.)</p>
+                 <p class="example">9. They are going to get married next year. (Příští rok se vezmou.)</p>
+                 <p class="example">10. She is going to have a baby. (Bude mít miminko.)</p>
 
          <div class="tense-name">Future Continuous</div>
          <p>Použití: děje probíhající v určitém momentě v budoucnosti</p>
-         <p class="example">I will be working at 6 PM tomorrow. (Zítra v 6 hodin budu pracovat.)</p>
-
-         <div class="tense-name">Future Perfect</div>
+         <p class="example">1. I will be working at 6 PM tomorrow. (Zítra v 6 hodin budu pracovat.)</p>
+                <p class="example">2. She will be studying when you arrive. (Až přijdeš, bude se učit.)</p>
+                <p class="example">3. They will be traveling this time next week. (Příští týden touto dobou budou cestovat.)</p>
+                <p class="example">4. He will be playing tennis at 5 PM. (V 5 hodin bude hrát tenis.)</p>
+                <p class="example">5. We will be having dinner when you come. (Až přijdeš, budeme večeřet.)</p>
+                <p class="example">6. The children will be sleeping when you get home. (Až přijdeš domů, děti budou spát.)</p>
+                <p class="example">7. I will be flying to London at this time tomorrow. (Zítra touto dobou budu letět do Londýna.)</p>
+                <p class="example">8. She will be teaching English next year. (Příští rok bude učit angličtinu.)</p>
+                <p class="example">9. They will be living in Paris by then. (Do té doby budou žít v Paříži.)</p>
+                <p class="example">10. We will be celebrating our anniversary. (Budeme slavit naše výročí.)</p>
+           <div class="tense-name">Future Perfect</div>
          <p>Použití: děje dokončené do určitého momentu v budoucnosti</p>
-         <p class="example">I will have worked here for 6 years by next June. (Příští červen to bude 6 let, co zde pracuji.)</p>
-     </div>
+        <p class="example">1. I will have finished work by 5 PM. (Do 5 hodin budu mít práci dokončenou.)</p>
+        <p class="example">2. They will have built the house by next year. (Do příštího roku budou mít postavený dům.)</p>
+        <p class="example">3. She will have graduated by June. (Do června bude mít vystudováno.)</p>
+        <p class="example">4. We will have moved to Prague by August. (Do srpna se budeme mít přestěhováni do Prahy.)</p>
+        <p class="example">5. He will have learned Spanish by the end of the course. (Na konci kurzu bude mít španělštinu naučenou.)</p>
+        <p class="example">6. The train will have arrived by midnight. (Do půlnoci vlak přijede.)</p>
+        <p class="example">7. You will have read the book by Monday. (Do pondělí budeš mít knihu přečtenou.)</p>
+        <p class="example">8. The company will have opened ten new stores by 2026. (Do roku 2026 bude mít firma otevřeno deset nových obchodů.)</p>
+        <p class="example">9. I will have lived here for 20 years by next month. (Příští měsíc to bude 20 let, co tu budu bydlet.)</p>
+        <p class="example">10. They will have completed the project by the deadline. (Do termínu budou mít projekt dokončený.)</p>    </div>
     </div>
 </div>
 
