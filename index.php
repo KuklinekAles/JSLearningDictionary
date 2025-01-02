@@ -29,21 +29,21 @@
       <p>Program je jednoduchý, uživatelsky přívětivý a ideální pro jednotlivce, kteří se chtějí "zábavnou" formou učit nebo zlepšovat slovní zásobu v cizím jazyce.</p>
       <div class="uk-child-width-expand@s uk-text-center" uk-grid>
         <div>
-          <a href="./anglictina/index.php">
+          <a href="./anglictina/">
             <div class="uk-card uk-card-primary uk-card-body">
            Angličtina
             </div>
           </a>
         </div>
         <div>
-          <a href="./italstina/index.php">
+          <a href="./italstina/">
             <div class="uk-card uk-card-primary uk-card-body">
              Italský jazyk
             </div>
           </a>
         </div>
         <div>
-          <a href="./nemcina/index.php">
+          <a href="./nemcina/">
             <div class="uk-card uk-card-primary uk-card-body">
            Německý jazyk
             </div>
@@ -52,21 +52,21 @@
       </div>
       <div class="uk-child-width-expand@s uk-text-center" uk-grid>
         <div>
-          <a href="./spanelstina/index.php">
+          <a href="./spanelstina/">
             <div class="uk-card uk-card-primary uk-card-body">
             Španělský jazyk
             </div>
           </a>
         </div>
         <div>
-          <a href="./francouzstina/index.php">
+          <a href="./francouzstina/">
             <div class="uk-card uk-card-primary uk-card-body">
                Francouzština
             </div>
           </a>
         </div>
         <div>
-                      <a href="./norstina/index.php">
+                      <a href="./norstina/">
 
           <div class="uk-card uk-card-primary uk-card-body">
            Norský jazyk
@@ -75,7 +75,7 @@
       </div>
       <div class="uk-child-width-expand@s uk-text-center" uk-grid>
         <div>
-          <a href="./madarstina/index.php">
+          <a href="./madarstina/">
             <div class="uk-card uk-card-primary uk-card-body">
              Maďarský jazyk
             </div>
