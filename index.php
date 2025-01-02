@@ -12,10 +12,7 @@
   <body>
     <div class="uk-container uk-container-xsmall" style="border:1px solid gray; background-color: #DBF227">
       <h1 class="uk-text-uppercase uk-margin-medium-top">Procvičování slovíček</h1>
-      <br>
-      <br>
-      <br>
-      <br>
+     <div class="height-40px"></div>
       <nav aria-label="Breadcrumb">
         <ul class="uk-breadcrumb">
           <li>
