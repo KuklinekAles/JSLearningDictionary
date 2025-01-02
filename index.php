@@ -93,6 +93,5 @@
 </footer>
 </div>
 
-</script>
         </body>
         </html>
