@@ -8,9 +8,6 @@
     <script src="js/uikit.min.js"></script>
     <script src="js/uikit-icons.min.js"></script>
     <title>Učení slovíček</title>
-    <style>
-
-    </style>
   </head>
   <body>
     <div class="uk-container uk-container-xsmall" style="border:1px solid gray; background-color: #DBF227">
