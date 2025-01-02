@@ -21,7 +21,7 @@ _Welcome:wave:_
 
 ### Your own learning dictionary platform.
 
-1. Download all files, upload them to server VIA FTPS and than run from browser. Easy as 1, 2, 3 
+1. Download all files, upload them to server via FTPS and than run from browser. Easy as 1, 2, 3 
 
 <footer>
 
